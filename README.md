@@ -16,14 +16,14 @@
 
 
 
-### 🎞️ Mask Range Doctor
+### 🎞️ Mask Range Doctor 
 
   Turn mask sequences on or off with white (1.0) or black (0.0). Simple comma , and dash - range syntax to define range
 
 
-### 🎞️ VACE Clip Doctor
+### 🎞️ VACE Clip Doctor - fix frames, edit video in specific frame ranges
 
-  Edit both image and mask sequences simultaneously. Set image frames to grey (RGB 127,127,127) and mask frames to white (1.0) or black (0.0). Uses the same comma , and dash - range syntax for precise frame control. Perfect for fine-tuning VACE preprocessing workflows.
+  Specify the frame range to fill frames for VACE (Solid grey image, solid white mask). Uses the same comma , and dash - range syntax for precise frame control. Perfect for fine-tuning VACE preprocessing workflows.
 
 
 ### 🎞️ VACE Video Splice - for transitions, clip extensions, and edits (mix any video or image input)
