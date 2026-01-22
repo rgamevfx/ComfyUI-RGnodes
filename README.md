@@ -1,4 +1,3 @@
-
 # VFX and video utility nodes. Avoiding opening other apps/clearing other caches. 
 
 ---
@@ -20,6 +19,11 @@
 ### 🎞️ Mask Range Doctor
 
   Turn mask sequences on or off with white (1.0) or black (0.0). Simple comma , and dash - range syntax to define range
+
+
+### 🎞️ VACE Clip Doctor
+
+  Edit both image and mask sequences simultaneously. Set image frames to grey (RGB 127,127,127) and mask frames to white (1.0) or black (0.0). Uses the same comma , and dash - range syntax for precise frame control. Perfect for fine-tuning VACE preprocessing workflows.
 
 
 ### 🎞️ VACE Video Splice
@@ -51,8 +55,3 @@ Special thanks to:
 \- https://github.com/drozbay/ComfyUI-WanVaceAdvanced
 
 \- Claude Free Tier
-
-
-
-
-
