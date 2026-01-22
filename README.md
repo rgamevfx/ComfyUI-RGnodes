@@ -27,8 +27,10 @@
 
 
 ### 🎞️ VACE Video Splice
+  Splice two video sequences together by overlaying sequence2 at a specified frame offset, fills empty frames with grey for VACE. Preserves uncovered frames and fills gaps with grey frames and white masks. (Mostly for transitions) 
 
- Splice two video sequences together by overlaying sequence2 at a specified frame offset, fills empty frames with grey for VACE. Preserves uncovered frames and fills gaps with grey frames and white masks. (Mostly for transitions) 
+  <img width="2006" height="998" alt="Screenshot 2026-01-22 032006" src="https://github.com/user-attachments/assets/f8c7b713-fcc8-4dc4-9e67-6c487de1628b" />
+
 ---
 
 
