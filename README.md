@@ -9,7 +9,7 @@
 
 ### 🎞️ VACE Inpaint Keyframe Insert
 
- Insert inpainted frames into an image sequence, and clear the mask on that frame.
+ Insert frames into an image sequence, and clear the mask on that frame.
  Chain multiple nodes to add >5
 
   [Make sure inputs are same size]
