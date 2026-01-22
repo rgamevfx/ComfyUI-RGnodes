@@ -26,8 +26,8 @@
   Edit both image and mask sequences simultaneously. Set image frames to grey (RGB 127,127,127) and mask frames to white (1.0) or black (0.0). Uses the same comma , and dash - range syntax for precise frame control. Perfect for fine-tuning VACE preprocessing workflows.
 
 
-### 🎞️ VACE Video Splice
-  Splice two video sequences together by overlaying sequence2 at a specified frame offset, fills empty frames with grey for VACE. Preserves uncovered frames and fills gaps with grey frames and white masks. (Mostly for transitions) 
+### 🎞️ VACE Video Splice - for transitions, clip extensions, and edits (mix any video or image input)
+  Splice two video sequences together by overlaying sequence2 at a specified frame offset, fills empty frames with grey for VACE. Preserves uncovered frames and fills gaps with grey frames and white masks. (Use offset to adjust time between clips/duration of the edit) 
 
 <img width="1634" height="820" alt="Screenshot 2026-01-22 033417" src="https://github.com/user-attachments/assets/f98a1601-f605-4796-a3fd-708ffe79d94e" />
 
