@@ -56,5 +56,3 @@ Special thanks to:
 \- https://github.com/TrentHunter82/TrentNodes
 
 \- https://github.com/drozbay/ComfyUI-WanVaceAdvanced
-
-\- Claude Free Tier
