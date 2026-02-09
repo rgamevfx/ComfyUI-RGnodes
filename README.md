@@ -23,7 +23,7 @@
 
 ### 🎞️ VACE Clip Doctor - fix frames, edit video in specific frame ranges
 
-  Specify the frame range to fill frames for VACE (Solid grey image, solid white mask). Uses the same comma , and dash - range syntax for precise frame control. Perfect for fine-tuning VACE preprocessing workflows.
+  Specify the frame range to fill frames for VACE (Solid grey image, solid white mask). Uses the same comma , and dash - range syntax for precise frame control. Perfect for fixing and filling frames.
 
 
 ### 🎞️ VACE Video Splice - for transitions, clip extensions, and edits (mix any video or image input)
